@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there! 👋
+
+## About Me
+
+I am Ahmad A'fif bin Zulkifli, a **Security Analyst** pursuing my Master in **Cybersecurity and Digital Forensics**.
+
 
 <!--
 **ahmad4fifz/ahmad4fifz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
