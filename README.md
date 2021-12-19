@@ -2,7 +2,9 @@
 
 ## About Me
 
-I am Ahmad A'fif bin Zulkifli, a **Security Analyst** pursuing my Master in **Cybersecurity and Digital Forensics**.
+I am Ahmad A'fif bin Zulkifli, a **Security Analyst** from local cybersecurity company in Malaysia.  
+
+Currently, I am pursuing my Master in **Cybersecurity and Digital Forensics**.
 
 
 <!--
