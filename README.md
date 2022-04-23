@@ -12,4 +12,5 @@ Currently, I am pursuing my Master in **Cybersecurity and Digital Forensics**.
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to install LibreNMS on Ubuntu 20.04](https://ahmad4fifz.medium.com/how-to-install-librenms-on-ubuntu-20-04-e5c7ef6d7630?source=rss-2acc279fbc4------2)
 <!-- BLOG-POST-LIST:END -->
