@@ -1,3 +1,5 @@
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ahmad4fifz"/>       
+
 # About Me
 
 I am Ahmad A'fif bin Zulkifli, a **Security Analyst** from local cybersecurity company in Malaysia.  
